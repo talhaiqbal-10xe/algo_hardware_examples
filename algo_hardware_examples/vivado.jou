@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Thu Dec 14 12:25:33 2023
+# Process ID: 16516
+# Current directory: C:/Users/user3/Downloads/vivadoProjects/algo_hardware_examples
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent27960 C:\Users\user3\Downloads\vivadoProjects\algo_hardware_examples\algo_hardware_examples.xpr
+# Log file: C:/Users/user3/Downloads/vivadoProjects/algo_hardware_examples/vivado.log
+# Journal file: C:/Users/user3/Downloads/vivadoProjects/algo_hardware_examples\vivado.jou
+# Running On: DESKTOP-Q0JKA2V, OS: Windows, CPU Frequency: 2419 MHz, CPU Physical cores: 4, Host memory: 12674 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/user3/Downloads/vivadoProjects/algo_hardware_examples/algo_hardware_examples.xpr
+update_compile_order -fileset sources_1
